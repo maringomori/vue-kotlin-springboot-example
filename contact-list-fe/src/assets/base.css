@@ -1,0 +1,18 @@
+@import "./utils/colors.css";
+@import "./utils/typography.css";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+  border: none;
+  border: none;
+}
+
+body {
+  color: var(--text-primary);
+  background: var(--primary-100);
+}

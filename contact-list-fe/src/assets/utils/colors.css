@@ -1,0 +1,24 @@
+:root {
+  --primary-100: #141414;
+  --primary-90: #191919;
+  --primary-80: #1e1e1e;
+  --primary-70: #232323;
+  --primary-60: #282828;
+  --primary-50: #2d2d2d;
+  --primary-40: #323232;
+  --primary-30: #373737;
+  --primary-20: #3c3c3c;
+  --primary-10: #414141;
+
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.56);
+  --text-disabled: rgba(255, 255, 255, 0.32);
+
+  --button-default: var(--grey-60);
+  --button-hover: var(--grey-50);
+  --button-active: var(--grey-40);
+}
+
+:root.light-theme {
+  --primary-100: #fff;
+}
