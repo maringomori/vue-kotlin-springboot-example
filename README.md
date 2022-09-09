@@ -1,10 +1,10 @@
-# Submission For UX Studio Developer Challange
+# A small example application written in Vue and Kotlin spring boot
 
 Project contains 3 folders
 
 - contact-list-be - containning the backend code
 - contact-list-fe - containning the frontend code
-- pictures - containing the provided pictures
+- pictures - containing somme pictures
 
 ## Running the project
 
